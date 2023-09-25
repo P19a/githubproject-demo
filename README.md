@@ -1,4 +1,4 @@
 # githubproject-demo
 This is my first Git Repository
 <br>
-Author - Pooja Landge
+Author - Pooja Landge (Student)
